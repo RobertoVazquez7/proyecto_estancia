@@ -1,0 +1,68 @@
+.contenedor {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  height: 200px;
+  width: 500;
+}
+
+.jumbotron {
+  height: 180px;
+  width: 1000px;
+  padding-top: 30px;
+  background-color: rgb(68,81,95);
+}
+
+.row-buscador {
+  display: flex;
+}
+
+.boton-buscar {
+  display: flex;
+  padding-left: 3%;
+  margin: 1%;
+}
+
+.input-buscar {
+  display: flex;
+  padding-left: 5%;
+  margin: 1%;
+}
+
+.contenedor-resultados {
+  margin: 1%;
+}
+
+.card {
+  margin: 2%;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-body {
+  align-items: center;
+  justify-content: center;
+}
+
+.paginacion {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.imagen-detalles {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.body-modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(68,81,95);
+}
+
+.footer {
+  background-color: blue;
+}
